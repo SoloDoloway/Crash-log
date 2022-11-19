@@ -1,0 +1,341 @@
+:ToontownStart: Mounting resources...
+:TTCCLauncher: Starting Toontown: Corporate Clash...
+TTLocalizer: Running in language: english
+
+from toontown.toonbase.TTLocalizerEnglish import *
+
+:TTCCLauncher: setting panda error code to 7
+:Settings: Reading the settings file
+:Settings: Creating chairkey as it was missing.
+:Settings: Creating want-shaders as it was missing.
+:Settings: Creating reduce-gui-movement as it was missing.
+:Settings: Creating toggle-sprint as it was missing.
+:Settings: Creating want-club-nametag as it was missing.
+:Settings: Creating show-clubcoin-reward as it was missing.
+:Settings: Creating acceptingClubInvites as it was missing.
+:Settings: Creating acceptingGroupInvites as it was missing.
+:Settings: Creating chat-club-message-popups as it was missing.
+:Settings: Creating chat-club-update-popups as it was missing.
+:Settings: Creating chat-group-message-popups as it was missing.
+:Settings: Creating chat-whisper-message-popups as it was missing.
+:Settings: Creating chat-main-whispers as it was missing.
+:Settings: Creating chat-main-alerts as it was missing.
+:Settings: Creating chat-main-npc as it was missing.
+:Settings: Creating chat-main-clubs as it was missing.
+:Settings: Creating chat-main-groups as it was missing.
+:Settings: Creating chat-line-count as it was missing.
+:Settings: Creating chat-focus-mode as it was missing.
+:Settings: Creating chat-hide-after-hotkey-send as it was missing.
+:Settings: Creating chat-default-to-main-tab as it was missing.
+:Settings: Creating sticker-sort-by-usage as it was missing.
+:Settings: Creating sticker-display-in-log as it was missing.
+:Settings: Creating social-panel-scale as it was missing.
+:Settings: Creating notif-panel-scale as it was missing.
+:Settings: Creating chat-scale as it was missing.
+:Settings: Deleting enableClubsChat as it's no longer needed.
+:Settings: Deleting cam-enable-mouse-rotation as it's no longer needed.
+:Settings: Deleting want-toon-tips as it's no longer needed.
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:display:windisplay(warning): Could not find cursor filename phase_3/etc/toonmono.cur
+:display:windisplay(warning): Could not find icon filename phase_3/etc/icon.ico
+:display: Created output of type wglGraphicsWindow
+:ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:pnmtext: Loaded font Perspective Sans Regular
+:display: Unable to set window properties: parent:none 
+:text: Loading font phase_3/fonts/MickeyFont
+:text: Loading font /phase_3/fonts/MinnieFont.ttf
+:pnmtext: Loaded font Minnie Regular
+:TTCCLauncher: setting panda error code to 11
+:text: Loading font /phase_3/fonts/ImpressBT.ttf
+:pnmtext: Loaded font Impress BT Regular
+:prc(warning): changing default value for ConfigVariable inactivity-timeout from '0.0' to '300.0'.
+:TTCCLauncher: setting panda error code to 0
+:text: Loading font /phase_3/fonts/vtRemingtonPortable.ttf
+:pnmtext: Loaded font VTPortableRemington Regular
+:ToontownClientRepository: Using connect method 'http'
+:ShortcutRegistry: Loaded 29 Shortcuts
+:DiscordConnector: Connected to discord!
+:ToontownClientRepository: Connecting to gameserver directly (no proxy).
+:ToontownClientRepository: Connecting to https://gs.corporateclash.net:7198 via HTTP interface.
+:downloader: [000002095B66AB20] begin CONNECT [ https://gs.corporateclash.net:7198 ]
+:downloader: Server certificate is pre-approved.
+:downloader: [000002095B66AB20] Unable to verify identity of gs.corporateclash.net:7198, verify error code 20
+:ToontownClientRepository: Successfully connected to https://gs.corporateclash.net:7198.
+:TTCCLauncher: Setting Disconnect Details normal
+:ToontownClientRepository: Handling mode success
+__handleAvatarChooserDone: 100726705, 'Solodolo', ('rsl', 'ls', 's', 'f', (1.0, 1.0, 0.94117, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 0.94117, 1.0), (1.0, 1.0, 0.94117, 1.0), 153, 27, 140, 27, 217, 27, (1.0, 1.0, 0.94117, 1.0), 0, 0), 0
+
+:text: Loading font /phase_3/fonts/AnimGothic.ttf
+:pnmtext: Loaded font AnimatedGothicW90-Light Regular
+:ToontownClientRepository(warning): Friends list stale; fetching new list.
+:CatalogItem(warning): Attempted to generate PetTrick catalog item, returning invalid item.
+:text: Loading font /phase_3/fonts/HastyPudding.ttf
+:pnmtext: Loaded font Hasty Pudding Regular
+:ToontownClientRepository: Entering shard 409000001
+:TimeManager: Clock sync: TimeManager.announceGenerate
+:NewsManager: setHolidayId: Starting Holiday 64
+:NewsManager: setHolidayId: Starting Holiday 64 end
+:NewsManager: setHolidayId: Starting Holiday 65
+:NewsManager: setHolidayId: Starting Holiday 65 end
+:NewsManager: setHolidayId: Starting Holiday 66
+:NewsManager: setHolidayId: Starting Holiday 66 end
+:NewsManager: setHolidayId: Starting Holiday 139
+:NewsManager: setHolidayId: Starting Holiday 139 end
+:ToontownClientRepository: No sync from TimeManager.
+:ToontownClientRepository: gotTimeSync
+:ToontownClientRepository: enterPlayGame hoodId:2000 zoneId:2000 avId:-1
+:PlayGame: entering hood:2000 zone:2000
+:ToontownAudio: clearZoneAmbience
+:TimeManager: Clock sync roundtrip took 97.852 ms
+:TimeManager: AI time delta is 0:00 from server delta
+:TimeManager: Local clock uncertainty +/- 0.049 s
+Reading DNA file...
+ 
+phase_4/dna/storage.pdna
+
+:text: Loading font /phase_3/fonts/MickeyFont.bam
+:text: Loading font /phase_3/fonts/Humanist.ttf
+:pnmtext: Loaded font Doris PP bold
+Reading DNA file...
+ 
+phase_3.5/dna/storage_interior.pdna
+
+Reading DNA file...
+ 
+phase_4/dna/storage_TT.pdna
+
+:text: Loading font /phase_3/fonts/Portago.ttf
+:pnmtext: Loaded font Portago ITC Regular
+:text: Loading font /phase_3/fonts/Aftershock.ttf
+:pnmtext: Loaded font ITCAftershockW01-Regular Regular
+:text: Loading font /phase_3/fonts/Comedy.ttf
+:pnmtext: Loaded font Comedy TT Regular
+Reading DNA file...
+ 
+phase_4/dna/storage_TT_sz.pdna
+
+Reading DNA file...
+ 
+phase_4/dna/toontown_central_sz.pdna
+
+:Playground: loading Place
+:text: Loading font /phase_3/fonts/Musicals.ttf
+:pnmtext: Loaded font Musicals Regular
+:text: Loading font /phase_3/fonts/Danger.ttf
+:pnmtext: Loaded font CCDangerGirl Regular
+:text: Loading font /phase_3/fonts/Scurlock.ttf
+:pnmtext: Loaded font Scurlock Regular
+:text: Loading font /phase_3/fonts/RedDogSaloon.ttf
+:pnmtext: Loaded font Red Dog Saloon Regular
+:text: Loading font /phase_3/fonts/Alie.ttf
+:pnmtext: Loaded font AlieW00-Regular Regular
+:text: Loading font /phase_3/fonts/JiggeryPokery.ttf
+:pnmtext: Loaded font ITCJiggeryPokeryW01 Regular
+:text: Loading font /phase_3/fonts/OysterBar.ttf
+:pnmtext: Loaded font Oyster Bar BTN Bold
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedDoor(warning): Couldn't find door node for door 1 in zone 2000
+:DistributedToon: calling LocalToon.startchat
+:Teleport(debug): teleportInDone: walk
+:DistributedNotificationManager: LocalAv wants this notification: <toontown.notifications.notificationData.NewCatalogNotification.NewCatalogNotification object at 0x0000020969FB7240>
+:ToontownClientRepository(warning): Don't know who friend 100725859 is.
+:ToontownClientRepository(warning): Don't know who friend 100726399 is.
+:ToontownClientRepository(warning): Don't know who friend 100721326 is.
+:ToontownClientRepository(warning): Don't know who friend 100047245 is.
+:ToontownClientRepository(warning): Don't know who friend 100728352 is.
+:ToontownClientRepository(warning): Don't know who friend 100356612 is.
+:ToontownClientRepository(warning): Don't know who friend 100725859 is.
+:ToontownClientRepository(warning): Don't know who friend 100726399 is.
+:ToontownClientRepository(warning): Don't know who friend 100721326 is.
+:ToontownClientRepository(warning): Don't know who friend 100047245 is.
+:ToontownClientRepository(warning): Don't know who friend 100728352 is.
+:ToontownClientRepository(warning): Don't know who friend 100356612 is.
+:ToontownClientRepository(warning): Don't know who friend 100725859 is.
+:ToontownClientRepository(warning): Don't know who friend 100726399 is.
+:ToontownClientRepository(warning): Don't know who friend 100721326 is.
+:ToontownClientRepository(warning): Don't know who friend 100047245 is.
+:ToontownClientRepository(warning): Don't know who friend 100728352 is.
+:ToontownClientRepository(warning): Don't know who friend 100356612 is.
+:ToontownClientRepository(warning): Don't know who friend 100725859 is.
+:ToontownClientRepository(warning): Don't know who friend 100726399 is.
+:ToontownClientRepository(warning): Don't know who friend 100721326 is.
+:ToontownClientRepository(warning): Don't know who friend 100047245 is.
+:ToontownClientRepository(warning): Don't know who friend 100728352 is.
+:ToontownClientRepository(warning): Don't know who friend 100356612 is.
+:text: Loading font /phase_3/fonts/Ironwork.ttf
+:pnmtext: Loaded font IronworkITCW03-Regular Regular
+:Playground: Unloading Place (2000). Fsm in final
+:ToontownAudio: clearZoneAmbience
+:ToontownClientRepository(warning): Asked to delete non-existent DistObj 100649451
+:DistributedToon: calling LocalToon.startchat
+:ToonInterior: loading Place
+:pgraph(warning): No bin named floor; creating default bin.
+:ShardPage: Teleporting to shard 407000001
+:ToonInterior: Unloading Place (2519). Fsm in final
+:PlayGame: Aggressively cleaning up hood: <toontown.hood.TTHood.TTHood object at 0x0000020918599C50>
+:CatalogManager(warning): delete(): CatalogManager was deleted!
+:ToontownClientRepository(warning): Disable failed. DistObj 409000014 is not in dictionary, ownerView=False
+:ToontownClientRepository: Entering shard 407000001
+:TimeManager: Clock sync: TimeManager.announceGenerate
+:NewsManager: setHolidayId: Starting Holiday 64
+:NewsManager: setHolidayId: Starting Holiday 64 end
+:NewsManager: setHolidayId: Starting Holiday 65
+:NewsManager: setHolidayId: Starting Holiday 65 end
+:NewsManager: setHolidayId: Starting Holiday 66
+:NewsManager: setHolidayId: Starting Holiday 66 end
+:NewsManager: setHolidayId: Starting Holiday 139
+:NewsManager: setHolidayId: Starting Holiday 139 end
+:ToontownClientRepository: No sync from TimeManager.
+:ToontownClientRepository: gotTimeSync
+:ToontownClientRepository: enterPlayGame hoodId:2000 zoneId:2000 avId:-1
+:PlayGame: entering hood:2000 zone:2000
+:ToontownAudio: clearZoneAmbience
+:TimeManager: Clock sync roundtrip took 118.336 ms
+:TimeManager: AI time delta is 0:00 from server delta
+:TimeManager: Local clock uncertainty +/- 0.059 s
+Reading DNA file...
+ 
+phase_4/dna/storage.pdna
+
+:text: Loading font /phase_3/fonts/MickeyFont.bam
+Reading DNA file...
+ 
+phase_3.5/dna/storage_interior.pdna
+
+Reading DNA file...
+ 
+phase_4/dna/storage_TT.pdna
+
+Reading DNA file...
+ 
+phase_4/dna/storage_TT_sz.pdna
+
+Reading DNA file...
+ 
+phase_4/dna/toontown_central_sz.pdna
+
+:Playground: loading Place
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedBuilding(warning): Loader has no attribute 'getInteractiveProp' or no interactiveProp could be found.
+:DistributedDoor(warning): Couldn't find door node for door 1 in zone 2000
+:DistributedToon: calling LocalToon.startchat
+:Teleport(debug): teleportInDone: walk
+:DistributedNotificationManager: LocalAv wants this notification: <toontown.notifications.notificationData.NewCatalogNotification.NewCatalogNotification object at 0x0000020983DFF630>
+:Playground: Unloading Place (2000). Fsm in final
+:PlayGame: Aggressively cleaning up hood: <toontown.hood.TTHood.TTHood object at 0x00000209829D8AC8>
+:ToontownAudio: clearZoneAmbience
+Reading DNA file...
+ 
+phase_4/dna/storage.pdna
+
+:text: Loading font /phase_3/fonts/MickeyFont.bam
+Reading DNA file...
+ 
+phase_3.5/dna/storage_interior.pdna
+
+Reading DNA file...
+ 
+phase_8/dna/storage_DG.pdna
+
+Reading DNA file...
+ 
+phase_8/dna/storage_DG_sz.pdna
+
+Reading DNA file...
+ 
+phase_8/dna/daisys_garden_sz.pdna
+
+DNALandmarkBuilding sb2:toon_landmark_hqDG_DNARoot did not find **/*suit_building_origin
+
+DNALandmarkBuilding sb5:toon_landmark_DG_clothes_shop_DNARoot did not find **/*suit_building_origin
+
+:Playground: loading Place
+Traceback (most recent call last):
+
+  File "direct.distributed.ConnectionRepository", line 612, in readerPollUntilEmpty
+
+  File "direct.distributed.ConnectionRepository", line 619, in readerPollOnce
+
+  File "toontown.distributed.ToontownClientRepository", line 1327, in handleDatagram
+
+  File "toontown.distributed.ToontownClientRepository", line 1085, in handlePlayGame
+
+  File "toontown.distributed.ToontownClientRepository", line 1214, in handleMessageType
+
+  File "toontown.distributed.ToontownClientRepository", line 1239, in gotInterestDoneMessage
+
+  File "toontown.distributed.ToontownClientRepository", line 1376, in __playBackGenerates
+
+  File "toontown.distributed.ToontownClientRepository", line 1401, in __doGenerate
+
+  File "direct.distributed.ClientRepositoryBase", line 277, in generateWithRequiredFields
+
+  File "direct.distributed.DistributedObject", line 338, in updateRequiredFields
+
+  File "toontown.safezone.DistributedQuestCollectable", line 16, in announceGenerate
+
+  File "toontown.safezone.DistributedQuestCollectable", line 21, in setupCollectable
+
+TypeError: 'NoneType' object is not iterable
+
+-----Begin Error Notice-----
+
+Collecting generic system information for crash report.
+
+This is anonymous and cannot be associated or tied back to your username or person.
+
+To disable this collection, create the file "donotcollect.txt" in the same folder as "launcher.exe".
+
+----- End Error Notice -----
+
+:downloader: [00000209B9FF2DD0] begin POST [ https://sentry.io/api/281740/store/ ]
+Sent error report: b'{"id":"0cf09e8332f943658e7fb74976101e19"}'
+
+:task(error): Exception occurred in PythonTask readerPollTask-2239358753568
+:ToonBase(warning): Handling Python exception.
+:ToontownClientRepository: Sent disconnect message to server
+:ToontownClientRepository: Closing connection to server.
+:ToonBase: Exception exit.
+:display: Closing wglGraphicsWindow
+Traceback (most recent call last):
+
+  File "direct.task.Task", line 567, in run
+
+  File "direct.task.Task", line 494, in step
+
+  File "direct.distributed.ConnectionRepository", line 612, in readerPollUntilEmpty
+
+  File "direct.distributed.ConnectionRepository", line 619, in readerPollOnce
+
+  File "toontown.distributed.ToontownClientRepository", line 1327, in handleDatagram
+
+  File "toontown.distributed.ToontownClientRepository", line 1085, in handlePlayGame
+
+  File "toontown.distributed.ToontownClientRepository", line 1214, in handleMessageType
+
+  File "toontown.distributed.ToontownClientRepository", line 1239, in gotInterestDoneMessage
+
+  File "toontown.distributed.ToontownClientRepository", line 1376, in __playBackGenerates
+
+  File "toontown.distributed.ToontownClientRepository", line 1401, in __doGenerate
+
+  File "direct.distributed.ClientRepositoryBase", line 277, in generateWithRequiredFields
+
+  File "direct.distributed.DistributedObject", line 338, in updateRequiredFields
+
+  File "toontown.safezone.DistributedQuestCollectable", line 16, in announceGenerate
+
+  File "toontown.safezone.DistributedQuestCollectable", line 21, in setupCollectable
+
+TypeError: 'NoneType' object is not iterable
+
